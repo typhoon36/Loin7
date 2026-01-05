@@ -1,0 +1,15 @@
+C:\Users\strom\Desktop\문서\BootCamp\Loin7\0105\0105\bin\Debug\0105.exe.config
+C:\Users\strom\Desktop\문서\BootCamp\Loin7\0105\0105\bin\Debug\0105.exe
+C:\Users\strom\Desktop\문서\BootCamp\Loin7\0105\0105\bin\Debug\0105.pdb
+C:\Users\strom\Desktop\문서\BootCamp\Loin7\0105\0105\obj\Debug\0105.csproj.AssemblyReference.cache
+C:\Users\strom\Desktop\문서\BootCamp\Loin7\0105\0105\obj\Debug\0105.csproj.CoreCompileInputs.cache
+C:\Users\strom\Desktop\문서\BootCamp\Loin7\0105\0105\obj\Debug\0105.exe
+C:\Users\strom\Desktop\문서\BootCamp\Loin7\0105\0105\obj\Debug\0105.pdb
+C:\Users\strom\Desktop\0105\0105\bin\Debug\0105.exe.config
+C:\Users\strom\Desktop\0105\0105\bin\Debug\0105.exe
+C:\Users\strom\Desktop\0105\0105\bin\Debug\0105.pdb
+C:\Users\strom\Desktop\0105\0105\obj\Debug\0105.csproj.AssemblyReference.cache
+C:\Users\strom\Desktop\0105\0105\obj\Debug\0105.exe.config
+C:\Users\strom\Desktop\0105\0105\obj\Debug\0105.csproj.CoreCompileInputs.cache
+C:\Users\strom\Desktop\0105\0105\obj\Debug\0105.exe
+C:\Users\strom\Desktop\0105\0105\obj\Debug\0105.pdb
