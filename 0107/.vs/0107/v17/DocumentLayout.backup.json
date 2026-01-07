@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\strom\\Desktop\\\uBB38\uC11C\\BootCamp\\0107\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E585557-EC44-4C4E-BDFF-8C8246DBD888}|0107\\0107.csproj|c:\\users\\strom\\desktop\\\uBB38\uC11C\\bootcamp\\0107\\0107\\class4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E585557-EC44-4C4E-BDFF-8C8246DBD888}|0107\\0107.csproj|solutionrelative:0107\\class4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E585557-EC44-4C4E-BDFF-8C8246DBD888}|0107\\0107.csproj|c:\\users\\strom\\desktop\\\uBB38\uC11C\\bootcamp\\0107\\0107\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E585557-EC44-4C4E-BDFF-8C8246DBD888}|0107\\0107.csproj|solutionrelative:0107\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E585557-EC44-4C4E-BDFF-8C8246DBD888}|0107\\0107.csproj|c:\\users\\strom\\desktop\\\uBB38\uC11C\\bootcamp\\0107\\0107\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E585557-EC44-4C4E-BDFF-8C8246DBD888}|0107\\0107.csproj|solutionrelative:0107\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E585557-EC44-4C4E-BDFF-8C8246DBD888}|0107\\0107.csproj|c:\\users\\strom\\desktop\\\uBB38\uC11C\\bootcamp\\0107\\0107\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E585557-EC44-4C4E-BDFF-8C8246DBD888}|0107\\0107.csproj|solutionrelative:0107\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E585557-EC44-4C4E-BDFF-8C8246DBD888}|0107\\0107.csproj|c:\\users\\strom\\desktop\\\uBB38\uC11C\\bootcamp\\0107\\0107\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E585557-EC44-4C4E-BDFF-8C8246DBD888}|0107\\0107.csproj|solutionrelative:0107\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class4.cs",
+              "DocumentMoniker": "C:\\Users\\strom\\Desktop\\\uBB38\uC11C\\BootCamp\\0107\\0107\\Class4.cs",
+              "RelativeDocumentMoniker": "0107\\Class4.cs",
+              "ToolTip": "C:\\Users\\strom\\Desktop\\\uBB38\uC11C\\BootCamp\\0107\\0107\\Class4.cs",
+              "RelativeToolTip": "0107\\Class4.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T06:01:39.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class3.cs",
+              "DocumentMoniker": "C:\\Users\\strom\\Desktop\\\uBB38\uC11C\\BootCamp\\0107\\0107\\Class3.cs",
+              "RelativeDocumentMoniker": "0107\\Class3.cs",
+              "ToolTip": "C:\\Users\\strom\\Desktop\\\uBB38\uC11C\\BootCamp\\0107\\0107\\Class3.cs",
+              "RelativeToolTip": "0107\\Class3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T04:16:10.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class2.cs",
+              "DocumentMoniker": "C:\\Users\\strom\\Desktop\\\uBB38\uC11C\\BootCamp\\0107\\0107\\Class2.cs",
+              "RelativeDocumentMoniker": "0107\\Class2.cs",
+              "ToolTip": "C:\\Users\\strom\\Desktop\\\uBB38\uC11C\\BootCamp\\0107\\0107\\Class2.cs",
+              "RelativeToolTip": "0107\\Class2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T02:34:39.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\strom\\Desktop\\\uBB38\uC11C\\BootCamp\\0107\\0107\\Program.cs",
+              "RelativeDocumentMoniker": "0107\\Program.cs",
+              "ToolTip": "C:\\Users\\strom\\Desktop\\\uBB38\uC11C\\BootCamp\\0107\\0107\\Program.cs",
+              "RelativeToolTip": "0107\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T00:19:17.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\strom\\Desktop\\\uBB38\uC11C\\BootCamp\\0107\\0107\\Class1.cs",
+              "RelativeDocumentMoniker": "0107\\Class1.cs",
+              "ToolTip": "C:\\Users\\strom\\Desktop\\\uBB38\uC11C\\BootCamp\\0107\\0107\\Class1.cs",
+              "RelativeToolTip": "0107\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T01:09:01.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
