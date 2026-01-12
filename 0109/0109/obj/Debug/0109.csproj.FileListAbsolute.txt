@@ -1,0 +1,8 @@
+C:\Users\strom\Desktop\문서\BootCamp\0109\0109\bin\Debug\0109.exe.config
+C:\Users\strom\Desktop\문서\BootCamp\0109\0109\bin\Debug\0109.exe
+C:\Users\strom\Desktop\문서\BootCamp\0109\0109\bin\Debug\0109.pdb
+C:\Users\strom\Desktop\문서\BootCamp\0109\0109\obj\Debug\0109.csproj.AssemblyReference.cache
+C:\Users\strom\Desktop\문서\BootCamp\0109\0109\obj\Debug\0109.csproj.CoreCompileInputs.cache
+C:\Users\strom\Desktop\문서\BootCamp\0109\0109\obj\Debug\0109.exe
+C:\Users\strom\Desktop\문서\BootCamp\0109\0109\obj\Debug\0109.pdb
+C:\Users\strom\Desktop\문서\BootCamp\0109\0109\obj\Debug\0109.exe.config
