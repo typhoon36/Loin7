@@ -1,0 +1,8 @@
+C:\Users\strom\Desktop\문서\BootCamp\ShootingGame\ShootingGame\bin\Debug\ShootingGame.exe.config
+C:\Users\strom\Desktop\문서\BootCamp\ShootingGame\ShootingGame\bin\Debug\ShootingGame.exe
+C:\Users\strom\Desktop\문서\BootCamp\ShootingGame\ShootingGame\bin\Debug\ShootingGame.pdb
+C:\Users\strom\Desktop\문서\BootCamp\ShootingGame\ShootingGame\obj\Debug\ShootingGame.csproj.AssemblyReference.cache
+C:\Users\strom\Desktop\문서\BootCamp\ShootingGame\ShootingGame\obj\Debug\ShootingGame.csproj.CoreCompileInputs.cache
+C:\Users\strom\Desktop\문서\BootCamp\ShootingGame\ShootingGame\obj\Debug\ShootingGame.exe
+C:\Users\strom\Desktop\문서\BootCamp\ShootingGame\ShootingGame\obj\Debug\ShootingGame.pdb
+C:\Users\strom\Desktop\문서\BootCamp\ShootingGame\ShootingGame\obj\Debug\ShootingGame.exe.config
