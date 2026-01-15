@@ -1,0 +1,8 @@
+C:\Users\strom\Desktop\문서\BootCamp\0115-TRPG\0115-TRPG\bin\Debug\0115-TRPG.exe.config
+C:\Users\strom\Desktop\문서\BootCamp\0115-TRPG\0115-TRPG\bin\Debug\0115-TRPG.exe
+C:\Users\strom\Desktop\문서\BootCamp\0115-TRPG\0115-TRPG\bin\Debug\0115-TRPG.pdb
+C:\Users\strom\Desktop\문서\BootCamp\0115-TRPG\0115-TRPG\obj\Debug\0115-TRPG.csproj.AssemblyReference.cache
+C:\Users\strom\Desktop\문서\BootCamp\0115-TRPG\0115-TRPG\obj\Debug\0115-TRPG.csproj.CoreCompileInputs.cache
+C:\Users\strom\Desktop\문서\BootCamp\0115-TRPG\0115-TRPG\obj\Debug\0115-TRPG.exe
+C:\Users\strom\Desktop\문서\BootCamp\0115-TRPG\0115-TRPG\obj\Debug\0115-TRPG.pdb
+C:\Users\strom\Desktop\문서\BootCamp\0115-TRPG\0115-TRPG\obj\Debug\0115-TRPG.exe.config
